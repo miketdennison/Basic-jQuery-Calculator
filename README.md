@@ -1,2 +1,2 @@
 # Basic-jQuery-Calculator
-https://miketdennison.github.io/Basic-jQuery-Calculator/index.html
+Live Link: https://miketdennison.github.io/Basic-jQuery-Calculator/query-calculator.html
